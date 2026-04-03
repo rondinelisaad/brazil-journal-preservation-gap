@@ -2,6 +2,7 @@
 
 ![Workflow](https://img.shields.io/badge/workflow-documented-blue)
 ![Validation](https://img.shields.io/badge/validation-partially%20manual-orange)
+[![DOI](https://zenodo.org/badge/10.5281/zenodo.19411254.svg)](https://doi.org/10.5281/zenodo.19411254)
 
 ## Descrição
 
@@ -119,6 +120,9 @@ Inclui:
 ---
 
 ## Reprodutibilidade (IMPORTANTE)
+Este repositório disponibiliza os scripts, o pipeline de processamento e os dados intermediários necessários para reproduzir integralmente as etapas computacionais do estudo.
+
+A etapa de validação de URLs segue um protocolo estruturado e documentado de verificação manual, cujos resultados estão incluídos no repositório.
 
 Alguns scripts utilizam caminhos fixos internos como:
 
@@ -140,7 +144,12 @@ Portanto:
 
 ---
 
-## 🇺🇸 English Version
+## Citação
+O repositório será versionado e arquivado via Zenodo, com atribuição de DOI para cada release, permitindo sua citação formal em trabalhos científicos.
+
+---
+
+## English Version
 
 ## Description
 
@@ -258,6 +267,10 @@ Includes:
 ---
 
 ## Reproducibility (IMPORTANT)
+This repository provides the scripts, processing pipeline, and intermediate datasets required to fully reproduce the computational steps of the study.
+
+The URL validation stage follows a structured and documented manual verification protocol, whose results are included in the repository.
+
 
 Some scripts use hardcoded internal paths:
 
@@ -277,6 +290,11 @@ Therefore:
 - dependency on URL availability
 - partial manual validation
 
+---
+
+## Citation
+
+The repository will be versioned and archived via Zenodo, with a DOI assigned to each release, enabling formal citation in scientific publications.
 ---
 
 ## License

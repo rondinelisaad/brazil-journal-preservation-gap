@@ -1,0 +1,22 @@
+{
+  "title": "Brazilian Journal Preservation Gap",
+  "description": "Data and reproducibility package for the study on misalignment between editorial production, indexing, and digital preservation of Brazilian open access journals (2000–2024).",
+  "creators": [
+    {
+      "name": "Saad, Rondineli"
+    }
+  ],
+  "keywords": [
+    "digital preservation",
+    "open access journals",
+    "Brazil",
+    "Cariniana",
+    "LOCKSS",
+    "indexing",
+    "metadata quality",
+    "reproducibility"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "software",
+  "access_right": "open"
+}
