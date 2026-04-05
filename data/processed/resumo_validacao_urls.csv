@@ -1,0 +1,16 @@
+metric,value
+total_urls,1900
+accessible_urls,1540
+urls_with_redirect,822
+urls_with_domain_changed,378
+urls_with_ojs_detected,1334
+problem_type::blocked,42
+problem_type::connection_error,19
+problem_type::inaccessible,44
+problem_type::not_found,44
+problem_type::ok,756
+problem_type::redirect,431
+problem_type::redirect_domain_changed,353
+problem_type::server_error,30
+problem_type::ssl_error,71
+problem_type::timeout,110

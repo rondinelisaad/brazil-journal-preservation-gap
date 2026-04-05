@@ -1,0 +1,33 @@
+periodico_id;titulo_principal;titulo_norm;publisher_norm;issn_impresso_norm;issn_eletronico_norm;decisao_manual;grupo_fusao;justificativa
+PER_9DFA7020ADD1A7C8;Journal of Information and Data Management;;;;2178-7107;fundir;G1;
+PER_84F7D9B09768E29A;Journal of Information and Data Management;;;;2178-7107;fundir;G1;
+PER_B58DD5F958FB9C36;Revista da ABET;;;1679-2483;1676-4439;fundir;G2;
+PER_BEB66EC1CEBC5DD7;Revista da ABET;;;1679-2483;1676-4439;fundir;G2;
+PER_9C5C5DA2BE7A9500;iSys - Revista Brasileira de Sistemas de Informação;;;;1984-2902;fundir;G3;
+PER_327D80856B243B32;iSys - Revista Brasileira de Sistemas de Informação;;;;1984-2902;fundir;G3;
+PER_5B4668C530B62462;Mneme;;;;1518-3394;fundir;G4;
+PER_5F3DA9D6D63A1386;Mneme-Revista de Humanidades;;;;1518-3394;fundir;G4;
+PER_4D2883DFEC5D21E4;Horizontes Antropológicos;;;0104-7183;1806-9983;manter;;
+PER_6C081B0F842A88EB;Anais da Faculdade de Medicina de Porto Alegre;;;0365-205X;1806-9983;manter;;"EISSN 1806-9983 pertence a Horizontes Antropológicos; associação ao periódico Anais da Faculdade de Medicina de Porto Alegre é inconsistente."
+PER_E97A0CB05175377D;REQ;;;0102-7735;1981-1802;fundir;G5;
+PER_FEE8093940490433;Revista Educação em Questão;;;0102-7735;1981-1802;fundir;G5;
+PER_D9CEB765562544E5;EDUCERE;;;;1982-1123;fundir;G6;
+PER_44CE72251AE8833F;Educere-Revista da Educação da UNIPAR;;;1519-0099;1982-1123;fundir;G6;
+PER_6915FDD0E6615AC4;ArqSaude;;;1415-076X;1982-114X;fundir;G7;
+PER_2416AE02BA2FF121;Arquivos de Ciências da Saúde da UNIPAR;;;1415-076X;1982-114X;fundir;G7;
+PER_7FA62DFB02347988;Revista Inter-Legere;;;;1982-1662;fundir;G8;
+PER_A1F30B901A0A7D3F;RIL;;;;1982-1662;fundir;G8;
+PER_2F1EA7E43BEF645C;Revista Constituição e Garantia de Direitos;;;;1982-310X;fundir;G9;
+PER_F05F9F17205D5573;RCGD;;;;1982-310X;fundir;G9;
+PER_1B9254685741724F;Cronos: Revista do Programa de Pós Graduaçáo em Ciências Sociais da UFRN;;;1518-0689;1982-5560;fundir;G10;
+PER_28A6A88D1D039761;CRONOS;;;1518-0689;1982-5560;fundir;G10;
+PER_3C8FCE8860CEE054;Princípios: Revista de Filosofia (UFRN);;;0104-8694;1983-2109;fundir;G11;
+PER_85F24FD87EC8A954;PRINCIPIOS;;;0104-8694;1983-2109;fundir;G11;
+PER_5CF895F5455D5625;Revista Odisseia;;;;1983-2435;fundir;G12;
+PER_3ABDCC390C43B718;RO;;;;1983-2435;fundir;G12;
+PER_81E03E768566D318;Saberes;;;;1984-3879;fundir;G13;
+PER_3CB2364C215C9552;Saberes: revista interdisciplinar de Filosofia e Educação;;;;1984-3879;fundir;G13;
+PER_220340F2FC2C9624;Brazilian Review of Finance;;;1679-0731;1984-5146;fundir;G14;
+PER_156527768F181185;Revista Brasileira de Finanças;;;1679-0731;1984-5146;fundir;G14;
+PER_46C9FD04D4C26387;Debates em Educação;;;;2175-6600;fundir;G15;
+PER_3E06026E464C2CD8;RDE;;;;2175-6600;fundir;G15;

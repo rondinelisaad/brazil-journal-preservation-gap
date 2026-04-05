@@ -1,5 +1,5 @@
 """
-gerar_periodicos_base_corrigido_v3.py
+gerar_periodicos_base_corrigido.py
 
 Consolida `preservacao_titledb.csv` em uma entidade de periódico mais robusta,
 resolvendo fragmentação por:
@@ -14,8 +14,8 @@ Estratégia:
 3. se um registro não tem ISSN nem eISSN, cai em um componente próprio por título
 
 Saídas:
-- periodicos_base_corrigido_v3.csv
-- mapa_periodicos_consolidados_v3.csv
+- periodicos_base_corrigido.csv
+- mapa_periodicos_consolidados.csv
 """
 
 from __future__ import annotations
@@ -269,12 +269,12 @@ def main():
 
     periodicos, mapa = consolidar_periodicos(df)
 
-    periodicos.to_csv(args.outdir / "periodicos_base_corrigido_v3.csv", index=False, encoding="utf-8")
-    mapa.to_csv(args.outdir / "mapa_periodicos_consolidados_v3.csv", index=False, encoding="utf-8")
+    periodicos.to_csv(args.outdir / "periodicos_base_corrigido.csv", index=False, encoding="utf-8")
+    mapa.to_csv(args.outdir / "mapa_periodicos_consolidados.csv", index=False, encoding="utf-8")
 
     print(f"preservacao_titledb.csv: {len(df)} entradas")
-    print(f"periodicos_base_corrigido_v3.csv: {len(periodicos)} periodicos consolidados")
-    print(f"mapa_periodicos_consolidados_v3.csv: {len(mapa)} linhas de rastreabilidade")
+    print(f"periodicos_base_corrigido.csv: {len(periodicos)} periodicos consolidados")
+    print(f"mapa_periodicos_consolidados.csv: {len(mapa)} linhas de rastreabilidade")
     print(f"Arquivos gravados em: {args.outdir.resolve()}")
 
 

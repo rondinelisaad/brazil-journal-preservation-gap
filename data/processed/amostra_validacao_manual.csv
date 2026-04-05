@@ -1,0 +1,61 @@
+periodico_id,titulo_principal,issn_impresso,issn_eletronico,grupo_validacao,tem_dados_editoriais,risco_estrutural
+PER_8EA6A181AB91E5B8,Varia Scientia Agrárias,2177-3165,2177-5109,A,False,True
+PER_31A4D8A2A95383A9,Revista HCPA,0101-5575,1983-5485,A,False,True
+PER_6E07A59E662262B2,UFF & Sociedade,,2965-6877,A,False,True
+PER_E3715AF12F9E8128,Portal de Cartografia das Geociências,,1983-6546,A,False,True
+PER_3B0440B14A4986E3,Estaçõo Literária,,1983-1048,A,False,True
+PER_825DEF7FB73490E0,Revista Eletrônica de Ciências da Educação,,1677-3098,A,False,True
+PER_C9D79A89401D335A,Revista Mackenzie de Educação Física e Esporte,1678-2577,1980-6892,A,False,True
+PER_D479E609633D4EE6,Revista Eletrônica do Curso de Direito,,2176-977X,A,False,True
+PER_B92B039D3D2E6814,CLIMEP: Climatologia e Estudos da Paisagem,,1980-654X,A,False,True
+PER_C2C196DC21987F47,ContraPonto,,2236-6822,A,False,True
+PER_18A65F0AE3F30C7E,Ensaios FEE,0101-1723,1980-2668,A,False,True
+PER_C7B053042AC30883,Revista Letra Capital,,2448-4482,A,False,True
+PER_936C9206B479480C,Journal of Respiratory and CardioVascular Physical Therapy,,2238-4677,A,False,True
+PER_EE0C312006E256C5,Perspectivas: Revista de Ciências Sociais,0101-3459,1984-0241,A,False,True
+PER_B65E473E1ED802C3,Physicae Organum - Revista dos Estudantes de Física da UnB,,2446-564X,A,False,True
+PER_0A3C8C3A0B5E9354,AMPLIANDO Revista Científica da Facerb,,2359-1366,A,False,True
+PER_C216D9571417891A,Revista RUA - Revista de Arquitetura e Urbanismo,0103-1651,,A,False,True
+PER_D04CA9A3B599BF88,Revista de Ciências Farmacêuticas Aplicadas / Journal of Applied Pharmaceutical Sciences,,2358-3495,A,False,True
+PER_BA79361D36EAF702,Revista de Informação Contábil,,1982-3967,A,False,True
+PER_6F0C9AF6434A1085,Processando o Saber,2177-4374,2179-5150,A,False,True
+PER_60AC34C4459331B3,Journal of Law and Regulation,2446-550X,2446-5259,A,False,True
+PER_789528AA5AAF2FE2,Floema. Caderno de Teoria e História Literária,1807-541X,2177-3629,A,False,True
+PER_E2B44665745DEA61,VERBA JURIS - Anuário da Pós-Graduação em Direito,1678-183X,,A,False,True
+PER_C5BC62DF37305DED,Contexto,,2358-9566,A,False,True
+PER_737BD26E8410622A,Ecolinguística: Revista brasileira de ecologia e linguagem (ECO-REBEL),,2447-7052,A,False,True
+PER_E5838F21C88001BB,Ciência & Consciência,,1980-5152,A,False,True
+PER_F89DF0ECA5FD5E34,Revista Eletrônica do Mestrado em Direito,,2237-2261,A,False,True
+PER_3C268D67A9356F6B,Revista Veredas Amazônicas,,2237-4043,A,False,True
+PER_2E9CED70C9CF0961,Revista Paraense de Enfermagem,,2596-0342,A,False,True
+PER_2A50299203C51E56,Revista-Valise,,2236-1375,A,False,True
+PER_F72831FC20A6B4D0,RPA - Revista Pesquisa em Administração UFPE (Caruaru-PE),,2594-8032,B,False,False
+PER_669078958E03FA7D,Revista do CEPEJ,,2595-3435,B,False,False
+PER_3C782699F46A5A6A,Ângulo,0101-191X,1984-7947,B,False,False
+PER_81CD74B5B4EEDC8D,Studium,,1519-4388,B,False,False
+PER_F438439618B05592,Música e Linguagem,,2316-3488,B,False,False
+PER_86EF44DEC7B5FC4A,Modelagem na Educação Matemática,,2178-5422,B,False,False
+PER_EA42C7FA7CD2FC35,Anuário Pesquisa e Extensão Joaçaba,,2525-4669,B,False,False
+PER_74540C1341B64F60,Revista Negativo,2318-3616,2446-7065,B,False,False
+PER_24A181FA0CF83646,Revista Eletrônica de Enfermagem do Vale do Paraíba,2237-7646,2238-1783,B,False,False
+PER_FDD3617BD6820C09,BAGOAS,1982-0518,2316-6185,B,False,False
+PER_9BD3917B03AD2CA4,Mneme,,1518-3394,B,False,False
+PER_FF944013A72AC3BA,Conhecimento Interativo,,1809-3442,B,False,False
+PER_76960032C04D5A13,Anais do Congresso Nacional de Estudos Linguísticos,2237-4124,2237-9789,B,False,False
+PER_9C94C280EA03CC2E,Encontro de Pesquisa em Educação,1809-7901,2237-8022,B,False,False
+PER_06623E86190AD257,Universitas,0041-9052,,B,False,False
+PER_AE19D7CAC5A1E63D,Seminários Espaços Costeiros,,2447-732X,B,False,False
+PER_A06FAF3A79AA897F,Anais Seminário Nacional Educa,2238-1791,2179-8389,B,False,False
+PER_961F566A89B1D81C,Revista Eletrônica Acadêmica da FACECA,1677-0331,,B,False,False
+PER_BA9E6649C5505A4E,Cadernos Acadêmicos,,2175-2532,B,False,False
+PER_F8B17F747152CA88,Revista e-ESTUDANTE: Electronic Accounting and Management,,1984-7378,B,False,False
+PER_861EF421EBB000D8,Orfandade,,2448-0363,B,False,False
+PER_28F8B0E53D7B0A74,Revista Salus: Setor de Ciências da Saúde,1980-2404,,B,False,False
+PER_5ACCEC3B75A514C1,Revista Semana Pedagógica,,2595-1572,B,False,False
+PER_788593D7B66DDF64,Revista Direito & Sensibilidade,2237-0455,2237-1001,B,False,False
+PER_BAAE3B913821FE33,"Anais do Simpósio Nacional Espaço, Economia e Políticas Públicas",,2238-1015,B,False,False
+PER_C7E93E672E572294,Revista de Iniciação Científica da UNESC,1678-7706,2594-7931,B,False,False
+PER_1BB11F5BF47460F1,Revista Eletrônica Língua Viva,1678-1767,2237-9800,B,False,False
+PER_1D4EFD51D3519DB1,"Revista de Ensino, Pesquisa e Extensão em Gestão",,2675-8512,B,False,False
+PER_9B3FA915405B53C5,Pista,,2674-6727,B,False,False
+PER_A59F22093145ECDC,Anuário Pesquisa e Extensão Chapecó,,2525-6548,B,False,False
